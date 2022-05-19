@@ -1,8 +1,7 @@
-from matplotlib import image
 import streamlit as st
 import pandas as pd
 
-#d이미지 처리를 위한 라이브러리
+#이미지 처리를 위한 라이브러리
 from PIL import Image
 
 def main():
